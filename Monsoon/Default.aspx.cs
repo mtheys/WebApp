@@ -11,7 +11,9 @@ namespace Monsoon
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            int somevalue = 0;
 
+            somevalue += 1;
         }
     }
 }
